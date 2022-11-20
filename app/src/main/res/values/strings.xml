@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Math Trainer</string>
+    <string name="description">In this application you can work out the solution of simple expressions</string>
+    <string name="button_text">Next</string>
+</resources>
